@@ -1,2 +1,0 @@
-# lotofacil
-Sistema de Loterias
